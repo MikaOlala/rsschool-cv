@@ -55,9 +55,9 @@ public void buttonClick(View view) {
 I have no work experience
 
 ### Education
-**IITU** - Almaty university - 2018-2022
-**Coursera** - Version Control with Git
-**Coursera** - Visual Elements of User Interface Design
+- **IITU** - Almaty university - 2018-2022
+- **Coursera** - Version Control with Git
+- **Coursera** - Visual Elements of User Interface Design
 
 ### English
 Intermediate level
