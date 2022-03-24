@@ -27,7 +27,7 @@ Some years earlier I drew a lot. So I have digital drawing skills.
 - Figma
 - Sony Vegas (amateur)
 
-# Code example
+### Code example
 Function from my mobile app - choosing one of three options
 ```
 public void buttonClick(View view) {
@@ -51,13 +51,13 @@ public void buttonClick(View view) {
         doTransparent();
     }
 ```
-# Work experience
+### Work experience
 I have no work experience
 
-# Education
+### Education
 **IITU** - Almaty university - 2018-2022
 **Coursera** - Version Control with Git
 **Coursera** - Visual Elements of User Interface Design
 
-# English
+### English
 Intermediate level
