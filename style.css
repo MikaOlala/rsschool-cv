@@ -1,0 +1,9 @@
+body {
+	background-color: #000;
+}
+p {
+	font-size: 25px;
+	font-family: monospace;
+	color: #fff;
+	text-align: center;
+}
